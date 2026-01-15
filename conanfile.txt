@@ -1,6 +1,6 @@
 [requires]
 
-glad/0.1.36
+glad/2.0.8
 stb/cci.20220909
 glm/cci.20230113
 fmtlog/2.2.1
